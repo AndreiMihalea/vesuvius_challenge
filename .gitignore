@@ -3,8 +3,8 @@ work/
 .venv/
 .vscode/
 __pycache__/
-*.md
 *.toml
 *.lock
 *.ipynb
 *.python-version
+*.html
